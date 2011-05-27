@@ -96,9 +96,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Clipboard Printer.exe">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Content Include="Resources\ClipboardPrinter.ico" />
   </ItemGroup>
   <ItemGroup>
